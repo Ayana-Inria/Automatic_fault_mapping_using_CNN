@@ -1,0 +1,29 @@
+DatasetHeader Begin
+	Version		= "7.1"
+	Name		= "CartoFailles_GraniteDells_Ballon_FailINDIV-1-WestPink-UPDATED_100322.erv"
+	LastUpdated	= Thu Mar 10 16:27:05 GMT 2022
+	DataSetType	= None
+	DataType	= Vector
+	ByteOrder	= LSBFirst
+	CoordinateSpace Begin
+		Datum		= "WGS84"
+		Projection	= "NUTM12"
+		CoordinateType	= EN
+		Units		= "meters"
+		Rotation	= 0:0:0.0
+	CoordinateSpace End
+	VectorInfo Begin
+		Type		= ERVEC
+		FileFormat	= ASCII
+		Extents Begin
+			TopLeftCorner Begin
+				Eastings	= 369622.08599999984
+				Northings	= 3829169.1899999985
+			TopLeftCorner End
+			BottomRightCorner Begin
+				Eastings	= 369747.34199999977
+				Northings	= 3828927.9609999987
+			BottomRightCorner End
+		Extents End
+	VectorInfo End
+DatasetHeader End

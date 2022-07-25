@@ -1,0 +1,28 @@
+DatasetHeader Begin
+	Version		= "7.1"
+	Name		= "DAY8_SITE7_Carto_Isa190122.erv"
+	LastUpdated	= Wed Jan 19 16:02:18 GMT 2022
+	DataSetType	= None
+	DataType	= Vector
+	ByteOrder	= LSBFirst
+	CoordinateSpace Begin
+		Datum		= "WGS84"
+		Projection	= "LOCAL"
+		CoordinateType	= EN
+		Rotation	= 0:0:0.0
+	CoordinateSpace End
+	VectorInfo Begin
+		Type		= ERVEC
+		FileFormat	= ASCII
+		Extents Begin
+			TopLeftCorner Begin
+				Eastings	= -2.3384333563335487
+				Northings	= 2.9179999999999975
+			TopLeftCorner End
+			BottomRightCorner Begin
+				Eastings	= 2.7410000000000014
+				Northings	= -8.6580239077387819
+			BottomRightCorner End
+		Extents End
+	VectorInfo End
+DatasetHeader End

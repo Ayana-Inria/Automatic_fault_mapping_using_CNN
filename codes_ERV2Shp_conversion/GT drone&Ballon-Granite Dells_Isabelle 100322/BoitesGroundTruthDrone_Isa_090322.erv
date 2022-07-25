@@ -1,0 +1,29 @@
+DatasetHeader Begin
+	Version		= "7.1"
+	Name		= "BoitesGroundTruthDrone_Isa_090322.erv"
+	LastUpdated	= Wed Mar 09 16:06:24 GMT 2022
+	DataSetType	= None
+	DataType	= Vector
+	ByteOrder	= LSBFirst
+	CoordinateSpace Begin
+		Datum		= "WGS84"
+		Projection	= "NUTM12"
+		CoordinateType	= EN
+		Units		= "meters"
+		Rotation	= 0:0:0.0
+	CoordinateSpace End
+	VectorInfo Begin
+		Type		= ERVEC
+		FileFormat	= ASCII
+		Extents Begin
+			TopLeftCorner Begin
+				Eastings	= 369677.13438015612
+				Northings	= 3829059.1749741221
+			TopLeftCorner End
+			BottomRightCorner Begin
+				Eastings	= 369734.19686053629
+				Northings	= 3828994.5636031083
+			BottomRightCorner End
+		Extents End
+	VectorInfo End
+DatasetHeader End

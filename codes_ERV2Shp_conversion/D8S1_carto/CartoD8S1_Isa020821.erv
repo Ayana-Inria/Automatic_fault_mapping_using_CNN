@@ -1,0 +1,28 @@
+DatasetHeader Begin
+	Version		= "7.1"
+	Name		= "CartoD8S1_Isa020821.erv"
+	LastUpdated	= Mon Aug 02 16:30:28 GMT 2021
+	DataSetType	= None
+	DataType	= Vector
+	ByteOrder	= LSBFirst
+	CoordinateSpace Begin
+		Datum		= "WGS84"
+		Projection	= "LOCAL"
+		CoordinateType	= EN
+		Rotation	= 0:0:0.0
+	CoordinateSpace End
+	VectorInfo Begin
+		Type		= ERVEC
+		FileFormat	= ASCII
+		Extents Begin
+			TopLeftCorner Begin
+				Eastings	= -8.9590998190832121
+				Northings	= 7.8729999999999967
+			TopLeftCorner End
+			BottomRightCorner Begin
+				Eastings	= 9.601999999999995
+				Northings	= -0.11399999999999899
+			BottomRightCorner End
+		Extents End
+	VectorInfo End
+DatasetHeader End
