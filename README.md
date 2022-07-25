@@ -1,6 +1,24 @@
 # Automatic_fault_mapping_using_CNN
 
-Author : Bilel Kanoun
+This is the code for the paper :
+- Bilel Kanoun, Mohamed Abderrazak Cherif, Isabelle Manighetti, Yuliya Tarabalka, Josiane Zerubia. **An enhanced deep learning approach for tectonic fault and fracture extraction in very high resolution optical images**. ICASSP 2022 - IEEE International Conference on Acoustics, Speech, & Signal Processing, IEEE, May 2022, Singapore/Hybrid, Singapore.
+
+If you use this code please cite:
+```
+@inproceedings{kanoun:hal-03577214,
+  TITLE = {{An enhanced deep learning approach for tectonic fault and fracture extraction in very high resolution optical images}},
+  AUTHOR = {Kanoun, Bilel and Cherif, Mohamed Abderrazak and Manighetti, Isabelle and Tarabalka, Yuliya and Zerubia, Josiane},
+  URL = {https://hal.inria.fr/hal-03577214},
+  BOOKTITLE = {{ICASSP 2022 - IEEE International Conference on Acoustics, Speech, \& Signal Processing}},
+  ADDRESS = {Singapore/Hybrid, Singapore},
+  ORGANIZATION = {{IEEE}},
+  YEAR = {2022},
+  MONTH = May,
+  DOI = {10.1109/ICASSP43922.2022.9747007},
+  KEYWORDS = {Image processing ; Curvilinear feature extraction ; Deep convolutional neural network ; VHR optical imagery ; Tectonic faults and fractures},
+}
+```
+
 
 ## Required packages:
 	tensorflow>=2.0.0
